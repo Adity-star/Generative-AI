@@ -7,5 +7,10 @@ Features
 * Supports basic command handling
 * Easily extendable for custom features
 
-### Demo
+  ## Requirements
+  1. Python
+  2. Aiogram
+  3. OPenai-key
+
+### Preview
 ![Screenshot (4)](https://github.com/user-attachments/assets/968fa558-ba62-40ef-ad97-2e6575b96b44)
