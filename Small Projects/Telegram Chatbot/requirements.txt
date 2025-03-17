@@ -1,0 +1,3 @@
+aiogram # for telegram bot api(to connect with telegram)
+openai == 0.28
+python-dotenv
