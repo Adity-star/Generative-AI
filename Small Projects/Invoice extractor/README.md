@@ -8,3 +8,5 @@ The Invoice Extractor is a tool built to extract key information from invoices s
   
 ## Requirements
 * Python
+* google-generativeai
+* streamlit
