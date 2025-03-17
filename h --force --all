@@ -1,0 +1,89 @@
+[33mcommit 69b124396c3bc349357cdefbf81c3a0fd6801f4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 15:44:24 2025 +0530
+
+    qa Rag gemini
+
+[33mcommit a264ece2e8214de0212c7a2ba100bf6bcfcdc48e[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 14:39:39 2025 +0530
+
+    Track large files with Git LFS
+
+[33mcommit 889909dc9e6a47617c61dae6f17a49268c887a00[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 13:57:41 2025 +0530
+
+    qa RAG using Gemini
+
+[33mcommit 40795776e4d0d796a502b70402d942ab0d5aa64b[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 13:47:03 2025 +0530
+
+    qa_rag using gemini
+
+[33mcommit 1750e702b968e5b10d68743cd3cc372b2d89d9be[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 13:33:33 2025 +0530
+
+    qa RAG using gemini
+
+[33mcommit 3330191887e53f7fece22c2921a773fda4c01da0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 13:16:20 2025 +0530
+
+    invoice extractor using gemini
+
+[33mcommit 61209882b3c79fd2c563875b10a1fb49e4826d37[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 13:10:45 2025 +0530
+
+    fully trained bert-base-uncased on mrpc
+
+[33mcommit 8c86401face0ddbab28f3427be71e54bc7e064ac[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 13:05:59 2025 +0530
+
+    simple text to image generation
+
+[33mcommit fb71bda60116be90dff12190c1e3a777d6f0a3e6[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 13:04:18 2025 +0530
+
+    text summarization project
+
+[33mcommit 11589ebc6069bbc1168d277bd50a217734aeab6f[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 13:01:58 2025 +0530
+
+    finetuned distilbert on agnews dataset
+
+[33mcommit af4f8951bb61fcf12e81d8c36077ccb8373aed85[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 12:58:20 2025 +0530
+
+    hugging face transformers pipeline
+
+[33mcommit 01ef5d68bbe55b23a87e7475bce0c208f16da4ff[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 12:53:11 2025 +0530
+
+    pinecone and chromadb
+
+[33mcommit ff7c9ef4585b28433f4741624187fd154ea1d578[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 12:50:53 2025 +0530
+
+    basic text preprocessing
+
+[33mcommit 38b4f0dd497e8e27ec2761fcd73a8b02daa4a621[m
+Author: Aditya Akuskar <Adiiii@Aditya.Akuskar>
+Date:   Mon Mar 17 12:47:01 2025 +0530
+
+    data preprocessing guide
+
+[33mcommit 1aa4d316b65c7306487b1d6e086f60017698643e[m
+Author: Aditya <adityaakuskar123@gmail.com>
+Date:   Mon Mar 17 12:40:28 2025 +0530
+
+    Initial commit
