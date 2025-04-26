@@ -1,15 +1,5 @@
 # 50 Core NLP Interview Questions
 
-<div>
-<p align="center">
-<a href="https://devinterview.io/questions/machine-learning-and-data-science/">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fmachine-learning-and-data-science-github-img.jpg?alt=media&token=c511359d-cb91-4157-9465-a8e75a0242fe" alt="machine-learning-and-data-science" width="100%">
-</a>
-</p>
-
-#### You can also find all 50 answers here 👉 [Devinterview.io - NLP](https://devinterview.io/questions/machine-learning-and-data-science/nlp-interview-questions)
-
-<br>
 
 ## 1. What is _Natural Language Processing (NLP)_ and why is it important?
 
@@ -819,12 +809,4 @@ print("Accuracy:", accuracy)
 
 
 
-#### Explore all 50 answers here 👉 [Devinterview.io - NLP](https://devinterview.io/questions/machine-learning-and-data-science/nlp-interview-questions)
-
-<br>
-
-<a href="https://devinterview.io/questions/machine-learning-and-data-science/">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fmachine-learning-and-data-science-github-img.jpg?alt=media&token=c511359d-cb91-4157-9465-a8e75a0242fe" alt="machine-learning-and-data-science" width="100%">
-</a>
-</p>
 
