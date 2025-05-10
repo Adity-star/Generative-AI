@@ -4,7 +4,6 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-![Image Description](interviewprep.jpg)
 
 ---
 ## Table of Contents
@@ -24,7 +23,6 @@ This repository contains over 100+ interview questions for Large Language Models
 13. [Agent-Based System](#agent-based-system)
 14. [Prompt Hacking](#prompt-hacking)
 15. [Miscellaneous](#miscellaneous)
-16. [Case Studies](#case-studies)
 
 ---
 
@@ -250,17 +248,4 @@ This repository contains over 100+ interview questions for Large Language Models
 
 
 [Back to Top](#table-of-contents)
-
----
-
-## Case Studies
-
-- **Case Study 1**: LLM Chat Assistant with dynamic context based on query
-- **Case Study 2**: Prompting Techniques
-
-[Back to Top](#table-of-contents)
-
----
-
-*For answers for those questions please, visit [Mastering LLM](https://www.masteringllm.com/course/llm-interview-questions-and-answers?previouspage=allcourses&isenrolled=no#/home).*
 
