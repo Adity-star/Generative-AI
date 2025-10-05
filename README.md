@@ -4,6 +4,15 @@ Welcome to **GenAI-Learnings**, a curated hub of resources, projects, and experi
 
 > "Learning AI is fun… but learning Generative AI is like teaching a robot to daydream!" 😄
 
+--- 
+## 🔗 Related Projects
+Explore more of my work:
+-  [Complete Data Science](https://github.com/Adity-star/Complete-DataScience-Guide): A deep dive into Data Science AI concepts, tools, and projects and all the material for learning and interview preparation.
+-  [LangChain-Mastery](https://github.com/Adity-star/LangChainMastery): Everything you need to master LangChain for building powerful LLM applications.
+-  [MCP-YFinance-Server](https://github.com/Adity-star/mcp-yfinance-server): A backend service for financial analytics and modeling.
+-  [Reinforcement-Learning](https://github.com/Adity-star/Reinforcement-Learning): Hands-on experiments and theory in Reinforcement Learning.
+-  [CompleteRAG](https://github.com/Adity-star/CompleteRAG): End-to-end implementation of Retrieval-Augmented Generation (RAG) systems.
+
 ---
 
 ## 📑 Table of Contents
